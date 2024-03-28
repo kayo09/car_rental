@@ -15,4 +15,4 @@ future functionality:
   -support for web(flask app)
   -support for threading and input sanitation 
   -support for database instead of hardcoded values 
-  -support for retrival based on customer name 
+  -support for retrieval based on customer name 
