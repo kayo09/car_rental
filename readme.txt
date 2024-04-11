@@ -8,7 +8,7 @@ features:
 
 implementation: 
   -using inheritence and oop concepts
-  -multiple cu:qstomers can be added 
+  -multiple customers can be added 
   -multiple cars can be purchased 
 
 future functionality: 
