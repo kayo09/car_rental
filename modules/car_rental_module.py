@@ -5,6 +5,7 @@ from modules import customer_module
 class Rentals(customer_module.Customer):
     car_rented=[]
     _cars=["honda","porsche","ford","tesla"]
+    name=_cars
     # current_time=datetime.datetime.now()
 
     def __init__(self):

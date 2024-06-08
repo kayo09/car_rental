@@ -12,7 +12,9 @@ implementation:
   -multiple cars can be purchased 
 
 future functionality: 
-  -support for web(flask app)
+  -support for web(flask app) ✓
   -support for threading and input sanitation 
-  -support for database instead of hardcoded values 
-  -support for retrieval based on customer name 
+  -support for database instead of hardcoded values ✓
+  -support for retrieval based on customer name ✓ 
+  -support for web interface
+  -support for login/signup
